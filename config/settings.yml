@@ -1,0 +1,11 @@
+required:
+  course_logo:
+    default: ''
+    client: true
+    shadowed_by_global: true
+    secret: true
+  creator:
+    default: "lekha.a-kisel"
+    client: true
+    secret: true
+    type: "username"

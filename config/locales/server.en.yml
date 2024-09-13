@@ -1,0 +1,13 @@
+en:
+  site_settings:
+    course_logo_enabled: "Want to use course logo?"
+    course_logo: "What is the course logo?"
+  wizard:
+    step:
+      courselogo:
+        title: "Cover of your course"
+
+        fields:
+          course_logo:
+            label: "Choose image"
+            description: "Add impressive photo to show beauty of your course"
